@@ -1,0 +1,121 @@
+.min-h-screen {
+    min-height: 350vh;
+    font-style: unset;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.topleft {
+    width: 50%;
+    height: 100vh;
+    font-size: large;
+}
+
+.topright {
+    width: 50%;
+    height: 80vh;
+}
+
+.am-1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    background: rgb(8, 180, 189);
+    border-radius: 3cm;
+    padding-left: 34px;
+}
+
+.text-orange {
+    color: orangered;
+}
+
+.text-chartreuse {
+    color: rgb(3, 135, 25);
+}
+
+.bicewkt {
+    height: 400px;
+    width: 650px;
+    align-self: center;
+    border-radius: 5px;
+}
+
+.gym {
+    height: 705px;
+    width: 692px;
+}
+.text-center{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    margin: 15px;
+    padding: 15px;
+}
+.section2 h1{
+    font-size: 3rem;
+}
+.section2{
+    padding: 70px;
+}
+.section2 p{
+    padding: 0 8vw;
+    text-align: center;
+}
+.box{
+    padding: 12px 0px;
+    margin: 12px 22px;
+    min-width: 24vw;
+    border-radius: 10px;
+    border: 2px solid rgb(190, 80, 6);
+    text-align: center;
+}
+.highlighted{
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.box h2{
+    font-size: 2rem;
+    padding: 14px 0px;
+}
+.box ul{
+    list-style-type: none;
+}
+.box ul li{
+    margin: 12px 2px;
+}
+.am-2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.plantable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section3 table{
+    width: 100%;
+    margin-top:  20px;
+    border-collapse: collapse;
+}
+.section3 table th{
+    width: 23vw;
+    border-bottom: 2px solid red;
+    padding: 15px 0px;
+}
+ .section3 table td{
+    border-bottom: 2px solid red;
+}
+.section3 h1{
+    font-size: 2.3rem;
+    margin-top: 20px;
+}
+.section3 {
+    padding-left: 64px;
+    padding-right: 64px;
+}
